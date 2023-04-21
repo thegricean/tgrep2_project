@@ -1,0 +1,8 @@
+data=/afs/.ir.stanford.edu/users/j/d/jdegen/projects/some/data/
+results=/afs/.ir.stanford.edu/users/j/d/jdegen/projects/some/results/
+
+init ID
+
+add StringVar Sentence
+add CategoricalVar Partitive=yes:Partitive,no:Bare
+add LengthVar SentenceLength=Sentence
