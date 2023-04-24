@@ -66,7 +66,7 @@ Source the bash profile:
 
 ```source .bash_profile```
 
-Now you should be able to access TGrep2 and the TDT. Typing `tgrep2` at the prompt should print usage information for TGrep2. Typing `run -h` at the prompt should print usage information for TDTlite. You're all set! Check out the [tutorials]() for how to get started.
+Now you should be able to access TGrep2 and the TDT. Typing `tgrep2` at the prompt should print usage information for TGrep2. Typing `run -h` at the prompt should print usage information for TDTlite. You're all set! Check out the [tutorials](https://thegricean.github.io/tgrep2_tdtlite/tutorials/) for how to get started.
 
 
 ## Checklist
