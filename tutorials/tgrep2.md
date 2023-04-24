@@ -96,4 +96,4 @@ To specify that the NP must contain a head noun.
 
 `tgrep2 -afl "NP=np << (some .. (/NN|NNS/ >> =np))" | less`
 
-Thus far, we have only output the results of a single search on the command line, or saved the output of a single search to a file. Ideally, we would add different types of information about each instance of "some" to a database directly -- e.g., the full sentence, whether "some" occurs in the partitive, and whether "some" occurs at the start of a sentence. To do this easily, use [TDTlite]().
+Thus far, we have only output the results of a single search on the command line, or saved the output of a single search to a file. Ideally, we would add different types of information about each instance of "some" to a database directly -- e.g., the full sentence, whether "some" occurs in the partitive, and whether "some" occurs at the start of a sentence. To do this easily, use [TDTlite](https://thegricean.github.io/tgrep2_tdtlite/tutorials/tdtlite/).
