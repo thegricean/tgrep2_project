@@ -17,7 +17,7 @@ description: >-
 
 ---
 
-These setup instructions are specific to Stanford affiliates. You will access both TGrep2 and TDTlite via AFS. For information on how to set up the TGrep2/[TDT](https://github.com/thegricean/TDTlite) pipeline at a different institution, feel free to email Judith Degen at jdegen@stanford.edu. (Documentation forthcoming.)
+These setup instructions are specific to Stanford affiliates. You will access both TGrep2 and TDTlite via AFS. For information on how to set up the TGrep2/[TDT](https://github.com/thegricean/TDTlite) pipeline at a different institution, email Judith Degen at ```jdegen@stanford.edu```. (Documentation forthcoming.)
 
 ## Preliminary steps
 
