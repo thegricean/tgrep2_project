@@ -15,7 +15,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-In this tutorial, you'll set up a simple TDTlite project culminating in a .tsv database of instances of "some" with additional information about each instance -- e.g., the match's unique TGrep2 ID, the full sentence, whether "some" occurs in the partitive, and whether "some" occurs at the start of a sentence. To do this easily, use [TDTlite]().
+In this tutorial, you'll set up a simple TDTlite project culminating in a .tsv database of instances of "some" with additional information about each instance -- e.g., the match's unique TGrep2 ID, the full sentence, whether "some" occurs in the partitive, and whether "some" occurs at the start of a sentence. To do this easily, use TDTlite, a wrapper that allows for batch calling of perl scripts that make up the TDT.
 
 ## Set up the project structure
 
