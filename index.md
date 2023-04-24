@@ -7,7 +7,7 @@ seo:
   name: TGrep2 and the TGrep2 Database Tools
 ---
 
-# {{ site.title }}
+# TGrep2 and the TGrep2 Database Tools
 {: .mb-2 }
 {{ site.description }}
 {: .fs-4 .fw-300 }
