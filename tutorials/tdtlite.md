@@ -27,6 +27,10 @@ This section provides a project structure skeleton for setting up your project. 
 
 3) A "results" folder. This is where the results of your queries will go.  
 
+You can find the structure you will need represented visually below:
+
+![A project structure tree](https://github.com/thegricean/tgrep2_tdtlite/blob/main/assets/images/tdtLiteStructure.png?raw=true)
+
 ## Add a MACROS file
 
 ## Create pattern files
