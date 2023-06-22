@@ -19,6 +19,14 @@ In this tutorial, you'll set up a simple TDTlite project culminating in a .tsv d
 
 ## Set up the project structure
 
+This section provides a project structure skeleton for setting up your project. We'll go into more detail about what each of these folders and files does in time, but to begin you should have a "project" folder. This will house all the files needed for your project. Inside of this folder, you should have:
+
+1) A "ptn" folder. This folder consists of two subfolders, called "StringVar" and "CatVar".
+
+2) A "data" folder. 
+
+3) A "results" folder. This is where the results of your queries will go.  
+
 ## Add a MACROS file
 
 ## Create pattern files
