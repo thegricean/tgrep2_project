@@ -46,7 +46,7 @@ A good couple of default patterns include:
 @ VP    /^VP/;
 @ PP    /^PP/;
 @ DISFL /EDITED|UH|PRN|-UNK/; 
-``
+```
 
 Note the structure of each macro: on a new line, place an "@", followed by a single space and the name of the macro in all caps. Then tab once and write out the macro, and end each macro with a semicolon.
 
